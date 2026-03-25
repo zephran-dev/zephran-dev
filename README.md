@@ -139,8 +139,6 @@ _Java · JavaScript · Node.js · AWS · Docker · PostgreSQL · Git · Linux ·
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiago-lopes-dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-lopes-dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9)
-
 ![Streak](https://streak-stats.demolab.com?user=thiago-lopes-dev&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
 
 </div>
