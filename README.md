@@ -111,8 +111,8 @@ _Java · JavaScript · Node.js · AWS · Docker · PostgreSQL · Git · Linux ·
 
 `Node.js` `Commander.js` `SQLite` `Linux` `Git`
 
-[![Repo](https://img.shields.io/badge/→_Ver_repositório-0d1117?style=flat-square&logo=github)](https://github.com/thiagoloopes)
-![Stars](https://img.shields.io/github/stars/thiagoloopes/task-cli?style=flat-square&color=00D9FF)
+[![Repo](https://img.shields.io/badge/→_Ver_repositório-0d1117?style=flat-square&logo=github)](https://github.com/thiago-lopes-dev/backend-node-modular)
+[![Stars](https://img.shields.io/github/stars/thiago-lopes-dev/backend-node-modular?style=flat-square&color=00D9FF)](https://github.com/thiago-lopes-dev/backend-node-modular)
 
 ---
 
