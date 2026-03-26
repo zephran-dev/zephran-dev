@@ -162,12 +162,9 @@ _Java · JavaScript · Node.js · AWS · Docker · PostgreSQL · Git · Linux ·
 ---
 
 <!-- GitLab Button -->
-<a href="https://gitlab.com/SEU_USER_GITLAB">
+<a href="https://gitlab.com/thiago.java">
   <img src="https://img.shields.io/badge/Acessar%20GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
 </a>
 
 <br/><br/>
-
-![GitLab Projects](https://img.shields.io/badge/dynamic/json?color=FC6D26&label=GitLab%20Projects&query=length&url=https://gitlab.com/api/v4/users/thiago.java/projects&style=for-the-badge&logo=gitlab)
-
 ---
