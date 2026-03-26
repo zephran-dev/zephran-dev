@@ -89,9 +89,10 @@ _Java · JavaScript · Node.js · AWS · Docker · PostgreSQL · Git · Linux ·
 
 `Node.js` `Express` `PostgreSQL` `Docker` `JWT`
 
-[![Repo](https://img.shields.io/badge/→_Ver_repositório-0d1117?style=flat-square&logo=github)](https://github.com/thiago-lopes-dev/backend-node-modular)
-![Stars](https://img.shields.io/github/stars/thiago-lopes-dev/auth-api?style=flat-square&color=00D9FF)
-
+<a href="https://github.com/thiago-lopes-dev/backend-node-modular" 
+   style="background-color:#0d1117;color:white;padding:8px 16px;text-decoration:none;border-radius:6px;font-weight:bold;">
+  Hello World
+</a>
 ---
 
 ### ◆ &nbsp;[`project-02`] &nbsp;**Deploy Automático na AWS com Docker**
