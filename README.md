@@ -89,7 +89,7 @@ _Java · JavaScript · Node.js · AWS · Docker · PostgreSQL · Git · Linux ·
 
 `Node.js` `Express` `PostgreSQL` `Docker` `JWT`
 
-[![Hello World](https://img.shields.io/badge/Hello_World-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thiago-lopes-dev/backend-node-modular)
+[![Hello World](https://img.shields.io/badge/%3C%2F_Hello_World_%3E-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thiago-lopes-dev/backend-node-modular)
 
 ---
 
