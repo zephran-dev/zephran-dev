@@ -1,8 +1,4 @@
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=thiago-lopes-dev&theme=black-ice&hide_border=true&background=0d1117&stroke=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=0d1117&dates=0d1117" />
-
-</div>
+<p align="center">GitHub Streak (Daily Contributions)</p>
 ---
 
 <div align="center">
