@@ -158,3 +158,17 @@ _Java · JavaScript · Node.js · AWS · Docker · PostgreSQL · Git · Linux ·
 ```
 
 </div>
+
+---
+
+<!-- GitLab Button -->
+<a href="https://gitlab.com/SEU_USER_GITLAB">
+  <img src="https://img.shields.io/badge/Acessar%20GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<!-- GitLab "Streak" (simulado estilo badge) -->
+<img src="https://img.shields.io/badge/GitLab_Streak-Active-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+
+---
