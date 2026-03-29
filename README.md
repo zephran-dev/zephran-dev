@@ -11,7 +11,7 @@
 
 ### `> Thiago Löpes`
 
-**Full stack Developer**
+**Full-Stack Developer | Backend Focus**
 
 _Java · JavaScript · Node.js · AWS · Docker · PostgreSQL · Git · Linux · DevOps & Cloud_
 
