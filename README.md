@@ -99,8 +99,7 @@ _Java · JavaScript · Node.js · AWS · Docker · PostgreSQL · Git · Linux ·
 
 `AWS EC2` `Docker` `GitHub Actions` `Linux` `Bash`
 
-[![Repo](https://img.shields.io/badge/→_Ver_repositório-0d1117?style=flat-square&logo=github)](https://github.com/thiagoloopes)
-![Stars](https://img.shields.io/github/stars/thiagoloopes/aws-docker-deploy?style=flat-square&color=00D9FF)
+[![Hello World](https://img.shields.io/badge/%3C%2F_Hello_World_%3E-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thiago-lopes-dev/Deploy-Automatic)
 
 ---
 
