@@ -119,7 +119,7 @@ _Java · JavaScript · Node.js · AWS · Docker · PostgreSQL · Git · Linux ·
 
 `Java` `Spring Boot` `React` `PostgreSQL` `Docker`
 
-[![Hello World](https://img.shields.io/badge/%3C%2F_Hello_World_%3E-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thiago-lopes-dev/CLI)
+[![Hello World](https://img.shields.io/badge/%3C%2F_Hello_World_%3E-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thiago-lopes-dev/dashboard)
 
 ---
 
@@ -129,7 +129,7 @@ _Java · JavaScript · Node.js · AWS · Docker · PostgreSQL · Git · Linux ·
 
 `Terraform` `AWS` `VPC` `S3` `EC2` `RDS`
 
-[![Hello World](https://img.shields.io/badge/%3C%2F_Hello_World_%3E-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thiago-lopes-dev/dashboard)
+[![Hello World](https://img.shields.io/badge/%3C%2F_Hello_World_%3E-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thiago-lopes-dev/terraform)
 
 ---
 
