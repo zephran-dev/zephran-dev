@@ -13,7 +13,7 @@
 
 **Full-Stack Developer | Backend Focus**
 
-_Java · JavaScript · Node.js · AWS · Docker · PostgreSQL · Git · Linux · DevOps & Cloud_
+_Java · JavaScript · TypeScript · React · AWS · Docker · PostgreSQL · Git · Linux · DevOps & Cloud..._
 
 <br/>
 
