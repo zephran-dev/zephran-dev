@@ -1,22 +1,19 @@
 <div align="center">
 
+```
+████████╗██╗  ██╗██╗ █████╗  ██████╗  ██████╗
+╚══██╔══╝██║  ██║██║██╔══██╗██╔════╝ ██╔═══██╗
+   ██║   ███████║██║███████║██║  ███╗██║   ██║
+   ██║   ██╔══██║██║██╔══██║██║   ██║██║   ██║
+   ██║   ██║  ██║██║██║  ██║╚██████╔╝╚██████╔╝
+   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝
+```
+
 ### `> Thiago Löpes`
 
 **Full-Stack Developer | Backend Focus**
----
 
-## `$ cat ./contact`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiagolopes-dev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagolopes.aws@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://thiagoloopes.dev)
-
-<br/>
-
-```
-
+_Java · JavaScript · TypeScript · React · Docker · PostgreSQL · DevOps & Cloud..._
 
 <br/>
 
