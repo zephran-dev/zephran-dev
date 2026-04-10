@@ -84,7 +84,7 @@
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=thiago-lopes-dev&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+![Streak](https://streak-stats.demolab.com?user=zephran-dev&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
 
 </div>
 
